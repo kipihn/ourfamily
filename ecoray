@@ -1,0 +1,322 @@
+<!-- 에코레이 2020 X-ray Generator - Portable Generator 서브페이지 시작 -->
+<section class="bg-secondary">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-5 col-md-offset-1">
+				<h3 class="top-dot mb32">HIGH FREQUENCY GENERATORS</h3>
+				<p class="mb48">Our generators are suitable and excellent complement for all radiographic X-ray systems.
+They consist of either film or digital systems and adopt a user-friendly interface and operation. These generators meet both clinic and hospital grade requirements and they are available in either single-phase or three-phase and in output powers of 32kW, 40kW, 50kW, 65kW and 80Kw.
+</p>
+				<a href="#spec" class=" btn-eco-simple1">Specification <img src="images/icon-arrow-right-black.png"></a>
+				<a href="pdf/powerd_generator.pdf" target="_blank" class="btn-eco-simple1"><strong>Catalogue</strong> Download <i class="ti-download "></i></a>
+
+			</div>
+			<div class="col-md-5 col-md-offset-1">
+				<img src="http://www.ecoray.kr/pages/images/01g_rad_80kw_00_sm_big.png">
+			</div>
+		</div>
+
+	</div>
+	<!--end of container-->
+
+</section>
+
+<section >
+	<div class="container">
+		<div class="row mb56">
+			<div class="col-md-3">
+				<div class="feature feature-1 bordered">
+					<img src="http://www.ecoray.kr/pages/images/01g_rad_32-40kw.jpg">
+					<h4 class="top-dot mt24 mb8">32/40/50kW<br>&nbsp;</h4>
+				</div>
+			</div>
+			<div class="col-md-3">
+				<div class="feature feature-1 bordered">
+					<img src="http://www.ecoray.kr/pages/images/01g_rad_50-65kw.jpg">
+					<h4 class="top-dot mt24 mb8">50/65kW<br>&nbsp;</h4>
+				</div>
+			</div>
+			<div class="col-md-3">
+				<div class="feature feature-1 bordered">
+					<img src="http://www.ecoray.kr/pages/images/01g_rad_80kw_00_sm.jpg">
+					<h4 class="top-dot mt24 mb8">80kW<br>&nbsp;</h4>
+				</div>
+			</div>
+			<div class="col-md-3">
+				<div class="feature feature-1 bordered">
+					<img src="http://www.ecoray.kr/pages/images/01g_rad_32-40kw_new.jpg">
+					<h4 class="top-dot mt24 mb8">32/40kW - Capacitor bank type</h4>
+				</div>
+			</div>
+		</div>
+
+		<img src="images/img_pg_1.png">
+		<div class="pd_des mb56">
+			<p class="top-dot mb24"><strong>EcoRay’s generator technology assures the best image quality</strong> in every operating condition along with reduced patient dose and extended X-ray tube lifetime.</p>
+			<p class="top-dot mb24"><strong>Automatic exposure control prevents all possibility </strong>to have either overexpose or underexpose on the image, and any possible excessive dose as well. Also, anatomical program will be given to you for constant radiographic procedure with obtaining the best images constantly (accessing to unique program setting</p>
+			<p class="top-dot mb24"><strong>32kW/40kW generators with capacitor bank</strong> are constantly showing reliable performance with unstable power source.</p>
+		</div>
+		<hr class="mb56">
+
+
+		<h3 class="top-dot">Specifications</h3>
+		<table border="0" cellspacing="0" cellpadding="0" width="100%" id="spec" class="layout_table type1 mb56">
+			<tbody><tr>
+				<th>
+					<strong>Caterfory / Range</strong>
+				</th>
+				<th>
+					<strong>32kW</strong>
+				</th>
+				<th>
+					<strong>40kW</strong>
+				</th>
+				<th colspan="3">
+					<strong><center>50kW</center></strong>
+				</th>
+				<th>
+					<strong>65kW</strong>
+				</th>
+				<th>
+					<strong>80kW</strong>
+				</th>
+			</tr>
+			<tr>
+				<td>
+					<strong>Radiographic KV range<br>
+					 Accuracy</strong>
+				</td>
+				<td>
+					40-125kV (±3%)
+				</td>
+				<td>
+					40-125kV (±3%)
+				</td>
+				<td>
+					40-150kV (±3%)
+				</td>
+				<td colspan="2">
+					40-150kV (±3%)
+				</td>
+				<td>
+					40-150kV (±3%)
+				</td>
+				<td>
+					40-150kV (±3%)
+				</td>
+			</tr>
+			<tr>
+				<td>
+					<strong>Power Output ratings<br>
+					 (at 0.1 sec)<br>
+					<br>
+					 Accuracy</strong>
+				</td>
+				<td>
+					400mA @ 80kV<br>
+					 300mA @ 100kV<br>
+					 200mA @ 125kV<br>
+					<br>
+					 ±2%
+				</td>
+				<td>
+					500mA @ 80kV<br>
+					 300mA @ 125kV<br>
+					<br>
+					<br>
+					 ±2%
+				</td>
+				<td>
+					630mA @ 75kV<br>
+					 500mA @ 100kV<br>
+					 300mA @ 150kV<br>
+					<br>
+					 ±2%
+				</td>
+				<td colspan="2">
+					800mA @ 62kV<br>
+					 630mA @ 75kV<br>
+					 500mA @ 100kV<br>
+					 300mA @ 150kV<br>
+					 ±2%
+				</td>
+				<td>
+					800mA @ 81kV<br>
+					 630mA @ 100kV<br>
+					 400mA @ 150kV<br>
+					<br>
+					 ±2%
+				</td>
+				<td>
+					1,000mA @ 80kV<br>
+					 800mA @ 100kV<br>
+					 500mA @ 150kV<br>
+					<br>
+					 ±2%
+				</td>
+			</tr>
+			<tr>
+				<td>
+					<strong>Exposure Time Range<br>
+					 Accuracy</strong>
+				</td>
+				<td colspan="7">
+					<center>0.01 - 6 seconds (81 steps)±2%</center>
+				</td>
+			</tr>
+			<tr>
+				<td>
+					<strong>Frequency</strong>
+				</td>
+				<td colspan="3">
+					<center>40kHz</center>
+				</td>
+				<td colspan="4">
+					<center>max. 300kHz</center>
+				</td>
+			</tr>
+			<tr>
+				<td>
+					<strong>mAs Range</strong>
+				</td>
+				<td>
+					0.1 ~ 400mAs
+				</td>
+				<td>
+					0.1 ~ 500mAs
+				</td>
+				<td>
+					0.1 ~ 630mAs
+				</td>
+				<td>
+					0.1 ~ 800mAs
+				</td>
+				<td colspan="3">
+					<center>0.1 ~ 1,000mAs</center>
+				</td>
+			</tr>
+			<tr>
+				<td>
+					<strong>High Voltage Ripple(TYP)</strong>
+				</td>
+				<td colspan="7">
+					&lt;1kV@100kV
+				</td>
+			</tr>
+			<tr>
+				<td>
+					<strong>Automatic Exposure Control <br>
+					 (up to 2 chambers)</strong>
+				</td>
+				<td colspan="7">
+					Optional
+				</td>
+			</tr>
+			<tr>
+				<td>
+					<strong>Power Supply Unit (PSU)</strong>
+				</td>
+				<td colspan="2">
+					Optional (Ultra capacitor type)
+				</td>
+				<td colspan="5">
+				</td>
+			</tr>
+			<tr>
+				<td>
+					<strong>Buckys (2 standards)</strong>
+				</td>
+				<td colspan="7">
+					Standard
+				</td>
+			</tr>
+			<tr>
+				<td>
+					<strong>Anatomical Programming</strong>
+				</td>
+				<td colspan="3">
+					288 APR (Standard)
+				</td>
+				<td colspan="4">
+					1,290 APR
+				</td>
+			</tr>
+			<tr>
+				<td>
+					<strong>Line Voltage (phase)</strong>
+				</td>
+				<td colspan="2">
+					220-230VAC, 50/60Hz, Single Phase
+				</td>
+				<td colspan="5">
+					380VAC, 50/60Hz, Three phase
+				</td>
+			</tr>
+			</tbody></table>
+
+
+		<h3 class="top-dot">OP Console</h3>
+		<div class="row mb24">
+			<div class="col-md-3">
+				<div class="feature feature-1 bordered">
+					<img src="http://www.ecoray.kr/pages/images/01g_rad_fnd.jpg">
+					<h4 class="top-dot mt24 mb8">FnD OP Console<br>&nbsp;</h4>
+				</div>
+			</div>
+			<div class="col-md-3">
+				<div class="feature feature-1 bordered">
+					<img src="http://www.ecoray.kr/pages/images/01g_rad_touch_opconsole.jpg">
+					<h4 class="top-dot mt24 mb8">LCD Touch screen<br>OP Console</h4>
+				</div>
+			</div>
+			<div class="col-md-3">
+				<div class="feature feature-1 bordered">
+					<img src="http://www.ecoray.kr/pages/images/01g_rad_lcd_opconsole.jpg">
+					<h4 class="top-dot mt24 mb8">LCD OP Console<br>&nbsp;</h4>
+				</div>
+			</div>
+			<div class="col-md-3">
+				<div class="feature feature-1 bordered">
+					<img src="http://www.ecoray.kr/pages/images/01g_rad_80kwopconsole.jpg">
+					<h4 class="top-dot mt24 mb8">LCD OP Console for 300kHz</h4>
+				</div>
+			</div>
+		</div>
+
+		<ul class="pd-list mb56">
+			<li><span>·</span> Type : Microprocessor control &amp; Digital display</li>
+			<li><span>·</span> Indication meter : kV,mA, mAs, msec, DAP value</li>
+			<li><span>·</span> Anatomical mode (APR)</li>
+		</ul>
+
+		<h3 class="top-dot">Related Products</h3>
+		<div class="row mb24">
+			<div class="col-md-3">
+				<div class="feature feature-1 bordered">
+					<a href="/rs_ev9"><img src="http://www.ecoray.kr/pages/images/02r_eco9_plus_2_1.jpg"></a>
+					<h4 class="top-dot mt24 mb8">Ceiling Suspended type ECOVIEW9 PLUS</h4>
+				</div>
+			</div>
+			<div class="col-md-3">
+				<div class="feature feature-1 bordered">
+					<a href="/rs_hf525p"><img src="http://www.ecoray.kr/pages/images/02r_eco9_plus_6_500.jpg"></a>
+					<h4 class="top-dot mt24 mb8">Floor Mounted type<br>ECOVIEW9 PLUS</h4>
+				</div>
+			</div>
+			<div class="col-md-3">
+				<div class="feature feature-1 bordered">
+					<a href="/rs_ev9#straight"><img src="http://www.ecoray.kr/pages/images/02r_eco9_8_4.jpg"></a>
+					<h4 class="top-dot mt24 mb8">Straight Arm type<br>ECOVIEW9 PLUS</h4>
+				</div>
+			</div>
+			<div class="col-md-3">
+				<div class="feature feature-1 bordered">
+					<a href="/rs_ev9#chest"><img src="http://www.ecoray.kr/pages/images/02r_eco9_3.jpg"></a>
+					<h4 class="top-dot mt24 mb8">Chest Exam<br>ECOVIEW9 PLUS</h4>
+				</div>
+			</div>
+
+
+	</div>
+</section>
+<!-- 에코레이 2020 서브페이지 마침 -->
